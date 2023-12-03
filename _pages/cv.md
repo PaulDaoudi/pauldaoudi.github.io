@@ -11,13 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+# * Ph.D in Reinforcement Learning, Huawei Noah's Ark Lab, 2021 - 2024 (expected)
+* Semester of Msc MVA (Mathématiques, Vision, Apprentissage), Ecole Normale Supérieure Paris-Saclay, 2020 - 2021
+* Msc in Applied Mathematics, Université Lille 1, 2019 - 2020
+* Eng. deg in Computer Science, Ecole Centrale de Lille, 2016 - 2020
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+
+* 2021 - Now: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
@@ -26,7 +30,7 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+
 Skills
 ======
 * Skill 1
@@ -42,18 +46,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
