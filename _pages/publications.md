@@ -5,9 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+<style>
+  a {
+    text-decoration: none; /* Remove underlines from all links */
+  }
+
+  a:hover {
+    text-decoration: underline; /* Add underline on hover */
+  }
+</style>
+
+{% if site.author.googlescholar %}
+  You can also find my articles on my <a href="{{ site.author.googlescholar }}">Google Scholar</a> profile.
 {% endif %}
+
+{{author}}
 
 {% include base_path %}
 

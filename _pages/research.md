@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 My focus is to find better ways to introduce external knowledge in this field to enhance the sample efficiency of current Reinforcement Learning agents. This has led me to study Offline Reinforcement Learning, Reinforcement Learning with Guides, Simulation-to-Reality Reinforcement Learning, and I am currently focusing on Multi-Task Reinforcement Learning.
-I am looking forward to discover new ways to introduce information in this process !
+I am looking forward to discover new ways to introduce information in this process!
 
 Real-World Applications
 ======
