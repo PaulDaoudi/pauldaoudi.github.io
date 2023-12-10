@@ -5,6 +5,12 @@ main:
 
   - title: "Publications"
     url: /publications/ 
+  
+  - title: "Open-Source"
+    url: /code/ 
+
+  # - title: "Portfolio"
+  #   url: /portfolio/ 
     
   # - title: "CV"
   #   url: /cv/
