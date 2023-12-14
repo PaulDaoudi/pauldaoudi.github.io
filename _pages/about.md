@@ -24,5 +24,5 @@ Outside of this, my interests are mainly related to outdoor activities, where I 
 {% include base_path %}
 
 
-[DOWNLOAD CV]({{ "CV.pdf" | prepend: "/files/" | prepend: base_path }}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 style="font-size: 0.9em; background-color: rgb(73, 78, 82);"}
+[DOWNLOAD CV]({{ "Paul_Daoudi_CV.pdf" | prepend: "/files/" | prepend: base_path }}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 style="font-size: 0.9em; background-color: rgb(73, 78, 82);"}
 
