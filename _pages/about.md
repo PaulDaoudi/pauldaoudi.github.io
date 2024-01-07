@@ -18,7 +18,10 @@ My PhD is in collaboration with [GIPSA-Lab](https://www.gipsa-lab.grenoble-inp.f
 I developed an interest in Machine Learning research during my gap year in my engineering studies at Ecole Centrale de Lille. There, I did two research internships at Airbus [Central Research and Technologies (CRT)](https://www.airbus.com/en/innovation/industry-4-0/artificial-intelligence) and IBM Research in the [Watson Health](https://www.ibm.com/industries/healthcare) team. This led me to continue my studies in statistics at my school and simultaneously pursue a Master in Applied Mathematics at Université de Lille. I also took various classes in the Master MVA (Mathématiques - Vision - Apprentissage) at ENS before starting my PhD at Huawei.
 
 
-Outside of this, my interests are mainly related to outdoor activities, where I have recently developed an interest in running, hopefully leading to Triathlons next year.
+<!-- Outside of this, my interests are mainly related to outdoor activities, where I have recently developed an interest in running, hopefully leading to Triathlons next year. -->
+
+
+As I approach the conclusion of my PhD, I am actively seeking opportunities in Reinforcement Learning or broader Machine Learning, with a keen interest in applications related to robotics or AI in healthcare. I am available for employment starting September and excited about potential opportunities in research and development. Hope to get in touch with you soon :).
 
 
 {% include base_path %}
