@@ -21,7 +21,7 @@ I developed an interest in Machine Learning research during my gap year in my en
 <!-- Outside of this, my interests are mainly related to outdoor activities, where I have recently developed an interest in running, hopefully leading to Triathlons next year. -->
 
 
-As I approach the conclusion of my PhD, I am actively seeking opportunities in Reinforcement Learning or broader Machine Learning, with a keen interest in applications related to robotics or AI in healthcare. I am available for employment starting September and excited about potential opportunities in research and development. Hope to get in touch with you soon :).
+As I approach the conclusion of my PhD, I am actively seeking opportunities in Reinforcement Learning or broader Machine Learning, with a keen interest in applications related to robotics or AI in healthcare. I am available for employment starting September and excited about potential opportunities in Research and Development. Hope to get in touch with you soon :).
 
 
 {% include base_path %}
